@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "https://0howwise.github.io/csb-wmzknw/static/js/main.21173771.chunk.js",
+    "main.js.map": "https://0howwise.github.io/csb-wmzknw/static/js/main.21173771.chunk.js.map",
+    "runtime-main.js": "https://0howwise.github.io/csb-wmzknw/static/js/runtime-main.32c573ea.js",
+    "runtime-main.js.map": "https://0howwise.github.io/csb-wmzknw/static/js/runtime-main.32c573ea.js.map",
+    "static/css/2.afa88954.chunk.css": "https://0howwise.github.io/csb-wmzknw/static/css/2.afa88954.chunk.css",
+    "static/js/2.8896bf89.chunk.js": "https://0howwise.github.io/csb-wmzknw/static/js/2.8896bf89.chunk.js",
+    "static/js/2.8896bf89.chunk.js.map": "https://0howwise.github.io/csb-wmzknw/static/js/2.8896bf89.chunk.js.map",
+    "index.html": "https://0howwise.github.io/csb-wmzknw/index.html",
+    "static/css/2.afa88954.chunk.css.map": "https://0howwise.github.io/csb-wmzknw/static/css/2.afa88954.chunk.css.map",
+    "static/js/2.8896bf89.chunk.js.LICENSE.txt": "https://0howwise.github.io/csb-wmzknw/static/js/2.8896bf89.chunk.js.LICENSE.txt",
+    "static/media/500.css": "https://0howwise.github.io/csb-wmzknw/static/media/inter-vietnamese-500-normal.c15997f1.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32c573ea.js",
+    "static/css/2.afa88954.chunk.css",
+    "static/js/2.8896bf89.chunk.js",
+    "static/js/main.21173771.chunk.js"
+  ]
+}
